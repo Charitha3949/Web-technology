@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Web Technology </title>
+</head>
+<body bgcolor="blue-gray">
+<c><h1> WELCOME </h1></c>
+<i><h2> This is My First Page</h2></i>
+<p> Web <u> Introduction </u>
+</p>
+<c><img src="https://www.thewowstyle.com/wp-content/uploads/2015/01/Nature-pictures-2.jpg"></c>
+</body>
+</html>
